@@ -13,7 +13,7 @@ namespace GameProject
             var goods = new int[3] { 3, 5, 7 };
             Console.WriteLine($"--------------游戏开始------------");
             var s = PlayGame(gamePlayers, goods);
-            Console.WriteLine($"-------------游戏结束,{s}赢了!---------------");
+            Console.WriteLine($"-------------游戏结束,{s}输了!---------------");
             Console.WriteLine("输入任意字符结束");
             Console.Read();
         }
