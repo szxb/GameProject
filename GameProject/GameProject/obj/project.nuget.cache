@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7OCGkR03PSh8Tb4K7L6oL2Ys4olB4CyZKnsEUywwVt7kAe06IjYcaosPq/3LTXzEiqongy9aphkDlVYdnAs4w==",
+  "success": true,
+  "projectFilePath": "E:\\工作文件夹\\Git\\测试\\GameProject\\GameProject\\GameProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.eminxing.com/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

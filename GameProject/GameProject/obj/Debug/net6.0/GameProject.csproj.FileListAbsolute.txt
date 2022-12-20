@@ -1,0 +1,15 @@
+E:\工作文件夹\Git\测试\GameProject\GameProject\bin\Debug\net6.0\GameProject.exe
+E:\工作文件夹\Git\测试\GameProject\GameProject\bin\Debug\net6.0\GameProject.deps.json
+E:\工作文件夹\Git\测试\GameProject\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+E:\工作文件夹\Git\测试\GameProject\GameProject\bin\Debug\net6.0\GameProject.dll
+E:\工作文件夹\Git\测试\GameProject\GameProject\bin\Debug\net6.0\GameProject.pdb
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.dll
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.pdb
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+E:\工作文件夹\Git\测试\GameProject\GameProject\obj\Debug\net6.0\ref\GameProject.dll
